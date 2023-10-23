@@ -1,0 +1,337 @@
+[
+    {
+        "wounded": 4,
+        "killed": 0,
+        "incidents": 902
+    },
+    {
+        "wounded": 5,
+        "killed": 0,
+        "incidents": 328
+    },
+    {
+        "wounded": 6,
+        "killed": 0,
+        "incidents": 126
+    },
+    {
+        "wounded": 7,
+        "killed": 0,
+        "incidents": 70
+    },
+    {
+        "wounded": 8,
+        "killed": 0,
+        "incidents": 22
+    },
+    {
+        "wounded": 9,
+        "killed": 0,
+        "incidents": 10
+    },
+    {
+        "wounded": 10,
+        "killed": 0,
+        "incidents": 17
+    },
+    {
+        "wounded": 3,
+        "killed": 1,
+        "incidents": 497
+    },
+    {
+        "wounded": 4,
+        "killed": 1,
+        "incidents": 237
+    },
+    {
+        "wounded": 5,
+        "killed": 1,
+        "incidents": 98
+    },
+    {
+        "wounded": 6,
+        "killed": 1,
+        "incidents": 40
+    },
+    {
+        "wounded": 7,
+        "killed": 1,
+        "incidents": 23
+    },
+    {
+        "wounded": 8,
+        "killed": 1,
+        "incidents": 9
+    },
+    {
+        "wounded": 9,
+        "killed": 1,
+        "incidents": 5
+    },
+    {
+        "wounded": 10,
+        "killed": 1,
+        "incidents": 17
+    },
+    {
+        "wounded": 2,
+        "killed": 2,
+        "incidents": 169
+    },
+    {
+        "wounded": 3,
+        "killed": 2,
+        "incidents": 72
+    },
+    {
+        "wounded": 4,
+        "killed": 2,
+        "incidents": 54
+    },
+    {
+        "wounded": 5,
+        "killed": 2,
+        "incidents": 20
+    },
+    {
+        "wounded": 6,
+        "killed": 2,
+        "incidents": 11
+    },
+    {
+        "wounded": 7,
+        "killed": 2,
+        "incidents": 7
+    },
+    {
+        "wounded": 8,
+        "killed": 2,
+        "incidents": 4
+    },
+    {
+        "wounded": 9,
+        "killed": 2,
+        "incidents": 1
+    },
+    {
+        "wounded": 10,
+        "killed": 2,
+        "incidents": 10
+    },
+    {
+        "wounded": 1,
+        "killed": 3,
+        "incidents": 71
+    },
+    {
+        "wounded": 2,
+        "killed": 3,
+        "incidents": 54
+    },
+    {
+        "wounded": 3,
+        "killed": 3,
+        "incidents": 23
+    },
+    {
+        "wounded": 4,
+        "killed": 3,
+        "incidents": 13
+    },
+    {
+        "wounded": 5,
+        "killed": 3,
+        "incidents": 4
+    },
+    {
+        "wounded": 6,
+        "killed": 3,
+        "incidents": 1
+    },
+    {
+        "wounded": 7,
+        "killed": 3,
+        "incidents": 1
+    },
+    {
+        "wounded": 9,
+        "killed": 3,
+        "incidents": 4
+    },
+    {
+        "wounded": 10,
+        "killed": 3,
+        "incidents": 2
+    },
+    {
+        "wounded": 0,
+        "killed": 4,
+        "incidents": 57
+    },
+    {
+        "wounded": 1,
+        "killed": 4,
+        "incidents": 14
+    },
+    {
+        "wounded": 2,
+        "killed": 4,
+        "incidents": 5
+    },
+    {
+        "wounded": 3,
+        "killed": 4,
+        "incidents": 3
+    },
+    {
+        "wounded": 4,
+        "killed": 4,
+        "incidents": 2
+    },
+    {
+        "wounded": 5,
+        "killed": 4,
+        "incidents": 1
+    },
+    {
+        "wounded": 6,
+        "killed": 4,
+        "incidents": 1
+    },
+    {
+        "wounded": 7,
+        "killed": 4,
+        "incidents": 1
+    },
+    {
+        "wounded": 10,
+        "killed": 4,
+        "incidents": 1
+    },
+    {
+        "wounded": 0,
+        "killed": 5,
+        "incidents": 21
+    },
+    {
+        "wounded": 1,
+        "killed": 5,
+        "incidents": 2
+    },
+    {
+        "wounded": 2,
+        "killed": 5,
+        "incidents": 5
+    },
+    {
+        "wounded": 3,
+        "killed": 5,
+        "incidents": 1
+    },
+    {
+        "wounded": 4,
+        "killed": 5,
+        "incidents": 1
+    },
+    {
+        "wounded": 6,
+        "killed": 5,
+        "incidents": 2
+    },
+    {
+        "wounded": 7,
+        "killed": 5,
+        "incidents": 1
+    },
+    {
+        "wounded": 10,
+        "killed": 5,
+        "incidents": 1
+    },
+    {
+        "wounded": 0,
+        "killed": 6,
+        "incidents": 2
+    },
+    {
+        "wounded": 1,
+        "killed": 6,
+        "incidents": 1
+    },
+    {
+        "wounded": 2,
+        "killed": 6,
+        "incidents": 1
+    },
+    {
+        "wounded": 0,
+        "killed": 7,
+        "incidents": 2
+    },
+    {
+        "wounded": 1,
+        "killed": 7,
+        "incidents": 1
+    },
+    {
+        "wounded": 10,
+        "killed": 7,
+        "incidents": 1
+    },
+    {
+        "wounded": 0,
+        "killed": 8,
+        "incidents": 3
+    },
+    {
+        "wounded": 1,
+        "killed": 8,
+        "incidents": 2
+    },
+    {
+        "wounded": 5,
+        "killed": 8,
+        "incidents": 1
+    },
+    {
+        "wounded": 0,
+        "killed": 9,
+        "incidents": 2
+    },
+    {
+        "wounded": 9,
+        "killed": 9,
+        "incidents": 1
+    },
+    {
+        "wounded": 10,
+        "killed": 9,
+        "incidents": 2
+    },
+    {
+        "wounded": 0,
+        "killed": 10,
+        "incidents": 1
+    },
+    {
+        "wounded": 1,
+        "killed": 10,
+        "incidents": 1
+    },
+    {
+        "wounded": 4,
+        "killed": 10,
+        "incidents": 1
+    },
+    {
+        "wounded": 6,
+        "killed": 10,
+        "incidents": 1
+    },
+    {
+        "wounded": 10,
+        "killed": 10,
+        "incidents": 7
+    }
+]

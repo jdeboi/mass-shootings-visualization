@@ -18,10 +18,13 @@
 
 body {
   color: rgb(var(--foreground-rgb));
-  background: linear-gradient(
-      to bottom,
-      transparent,
-      rgb(var(--background-end-rgb))
-    )
-    rgb(var(--background-start-rgb));
+  background: rgb(0, 14, 47);
+  width: 100%;
+}
+
+main {}
+
+h1 {
+  color: #e7edf9;
+  /* font-family: "GT Super Text", Georgia, 'Times New Roman', Times, serif; */
 }
